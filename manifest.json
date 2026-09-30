@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "io.github.yesm1ke.keyboard-layout",
+  "name": "Keyboard layout (seat-wide)",
+  "version": "1.0.0",
+  "author": "yesm1ke",
+  "description": "Current xkb layout; click cycles the whole seat, right click lists layouts",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "KeyboardLayout.qml"
+  },
+  "barWidget": {
+    "displayName": "Keyboard layout (seat-wide)",
+    "description": "Current xkb layout; click cycles the whole seat, right click lists layouts",
+    "category": "Compositor",
+    "allowMultiple": false
+  },
+  "omarchy": {
+    "clonedFrom": "omarchy.keyboard-layout"
+  }
+}
