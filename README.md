@@ -1,5 +1,7 @@
 # Keyboard layout for the Omarchy bar, seat-wide
 
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-support-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/mike_g)
+
 The stock Omarchy keyboard-layout widget with two additions:
 
 1. **Switching moves the whole seat.** A click runs
